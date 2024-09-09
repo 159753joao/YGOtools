@@ -1,0 +1,13 @@
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Debug\yugioh.csproj.AssemblyReference.cache
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Debug\yugioh.Properties.Resources.resources
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Debug\yugioh.csproj.GenerateResource.cache
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Debug\yugioh.csproj.CoreCompileInputs.cache
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\bin\Debug\yugioh.exe.config
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\bin\Debug\yugioh.exe
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\bin\Debug\yugioh.pdb
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Debug\yugioh.exe
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Debug\yugioh.pdb
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Debug\yugioh.Menu.resources
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Debug\yugioh.CalcuDraw.resources
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Debug\yugioh.Calcu.resources
+C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Debug\yugioh.DadoJusto100_aleatorio.resources
