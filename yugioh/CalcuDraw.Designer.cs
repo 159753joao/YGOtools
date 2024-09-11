@@ -108,6 +108,7 @@
             this.button1.TabIndex = 6;
             this.button1.Text = "Calcular";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label4
             // 
@@ -141,6 +142,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::yugioh.Properties.Resources.image1;
             this.ClientSize = new System.Drawing.Size(600, 366);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.numericUpDown4);
@@ -157,7 +159,7 @@
             this.MaximizeBox = false;
             this.Name = "CalcuDraw";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form2";
+            this.Text = "Calculadora de Draw";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();

@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gaicos\\Desktop\\Estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB64857-6B91-465E-B5EC-C9A91A14A8C2}|yugioh\\yugioh.csproj|c:\\users\\gaicos\\desktop\\estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EB64857-6B91-465E-B5EC-C9A91A14A8C2}|yugioh\\yugioh.csproj|solutionrelative:yugioh\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB64857-6B91-465E-B5EC-C9A91A14A8C2}|yugioh\\yugioh.csproj|c:\\users\\gaicos\\desktop\\estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EB64857-6B91-465E-B5EC-C9A91A14A8C2}|yugioh\\yugioh.csproj|solutionrelative:yugioh\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB64857-6B91-465E-B5EC-C9A91A14A8C2}|yugioh\\yugioh.csproj|c:\\users\\gaicos\\desktop\\estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\dadojusto100aleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EB64857-6B91-465E-B5EC-C9A91A14A8C2}|yugioh\\yugioh.csproj|solutionrelative:yugioh\\dadojusto100aleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB64857-6B91-465E-B5EC-C9A91A14A8C2}|yugioh\\yugioh.csproj|c:\\users\\gaicos\\desktop\\estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\calcudraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EB64857-6B91-465E-B5EC-C9A91A14A8C2}|yugioh\\yugioh.csproj|solutionrelative:yugioh\\calcudraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameTimer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaicos\\Desktop\\Estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\GameTimer.cs",
+              "RelativeDocumentMoniker": "yugioh\\GameTimer.cs",
+              "ToolTip": "C:\\Users\\Gaicos\\Desktop\\Estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\GameTimer.cs [Design]",
+              "RelativeToolTip": "yugioh\\GameTimer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:41:56.636Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DadoJusto100aleatorio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaicos\\Desktop\\Estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\DadoJusto100aleatorio.cs",
+              "RelativeDocumentMoniker": "yugioh\\DadoJusto100aleatorio.cs",
+              "ToolTip": "C:\\Users\\Gaicos\\Desktop\\Estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\DadoJusto100aleatorio.cs [Design]",
+              "RelativeToolTip": "yugioh\\DadoJusto100aleatorio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:41:40.49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalcuDraw.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaicos\\Desktop\\Estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\CalcuDraw.cs",
+              "RelativeDocumentMoniker": "yugioh\\CalcuDraw.cs",
+              "ToolTip": "C:\\Users\\Gaicos\\Desktop\\Estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\CalcuDraw.cs [Design]",
+              "RelativeToolTip": "yugioh\\CalcuDraw.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:41:21.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaicos\\Desktop\\Estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\Menu.cs",
+              "RelativeDocumentMoniker": "yugioh\\Menu.cs",
+              "ToolTip": "C:\\Users\\Gaicos\\Desktop\\Estudos\\programacao\\dotnet\\projetoyugio\\yugioh\\yugioh\\Menu.cs [Design]",
+              "RelativeToolTip": "yugioh\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:29:55.433Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,3 +11,17 @@ C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\
 C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.csproj.CoreCompileInputs.cache
 C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.exe
 C:\Users\Gaicos\Desktop\Estudos\programação\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.pdb
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.csproj.AssemblyReference.cache
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.Calcu.resources
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.DadoJusto100_aleatorio.resources
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.Menu.resources
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.CalcuDraw.resources
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.Properties.Resources.resources
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.csproj.GenerateResource.cache
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.csproj.CoreCompileInputs.cache
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.exe
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.pdb
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\obj\Release\yugioh.GameTimer.resources
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\bin\Release\yugioh.exe.config
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\bin\Release\yugioh.exe
+C:\Users\Gaicos\Desktop\Estudos\programacao\dotnet\projetoyugio\yugioh\yugioh\bin\Release\yugioh.pdb

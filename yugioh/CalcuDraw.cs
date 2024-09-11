@@ -15,6 +15,7 @@ namespace yugioh
         public CalcuDraw()
         {
             InitializeComponent();
+            InitializeComponent();
             button1.Click += new EventHandler(CalculateProbability);
         }
 
@@ -66,6 +67,11 @@ namespace yugioh
             }
 
             return (favorableCombinations / totalCombinations) * 100;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

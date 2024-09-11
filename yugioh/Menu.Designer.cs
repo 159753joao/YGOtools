@@ -37,6 +37,7 @@
             // 
             // button1
             // 
+            this.button1.BackgroundImage = global::yugioh.Properties.Resources._5895d31bcba9841eabab607f;
             this.button1.Location = new System.Drawing.Point(219, 91);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
@@ -48,6 +49,7 @@
             // 
             // button2
             // 
+            this.button2.BackgroundImage = global::yugioh.Properties.Resources._5895d31bcba9841eabab607f;
             this.button2.Location = new System.Drawing.Point(219, 138);
             this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
@@ -64,8 +66,9 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(328, 45);
             this.button3.TabIndex = 3;
-            this.button3.Text = "LISTA DE COMPRAS";
+            this.button3.Text = "TIMER";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.Menu_Timer);
             // 
             // button4
             // 
@@ -82,6 +85,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::yugioh.Properties.Resources.image1;
             this.ClientSize = new System.Drawing.Size(794, 448);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button4);
@@ -92,7 +96,7 @@
             this.MaximizeBox = false;
             this.Name = "Menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "YGOtools";
             this.ResumeLayout(false);
 
         }

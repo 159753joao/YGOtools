@@ -47,5 +47,12 @@ namespace yugioh
             form4.Show();
             form4.FormClosed += (s, args) => this.Show();
         }
+
+        private void Menu_Timer(object sender, EventArgs e)
+        {
+            GameTimer form5 = new GameTimer();
+            form5.Show();
+            form5.FormClosed += (s, args) => this.Show();
+        }
     }
 }
